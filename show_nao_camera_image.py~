@@ -1,4 +1,5 @@
 # -*- encoding: UTF-8 -*-
+# Get an image from NAO. Display it and save it using PIL.
 
 import sys
 import time
